@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OrangeHRM">
+	<test name="TestNG" allow-return-values="true">
+		<classes>
+			<class name="testlayer.LoginTest" />
+		</classes>
+	</test>
+	
+
+</suite>
